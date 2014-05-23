@@ -1,4 +1,4 @@
-android_prebuilts
+android_prebuilts_linaro
 =================
 
 linaro_ 4.7_ 2013.04 (hf)
